@@ -1,14 +1,14 @@
-#Analise de dados para laborátorio com docker
+# Analise de dados para laborátorio com docker
 Esse projeto contém um script em python para lidar com dados experimentais.
 Ao ser fornecido um arquivo .txt com dados medidos ele calcula:
--Média
--Desvio padrão amostral
--Desvio padrão da média
--Incerteza final
--cria um histograma com curva gaussiana não normalizada sobreposta
+- Média
+- Desvio padrão amostral
+- Desvio padrão da média
+- Incerteza final
+- cria um histograma com curva gaussiana não normalizada sobreposta
 
 O projeto é totalmente conteirizado com docker.
-##Pré-requisitos
+## Pré-requisitos
 -   [Docker](https://www.docker.com/get-started)
 
 ## Como Rodar
